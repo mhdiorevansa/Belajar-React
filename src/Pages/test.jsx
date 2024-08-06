@@ -12,7 +12,7 @@ const TestPage = () => {
 			<h1 className="font-bold text-3xl capitalize mb-3">isi identitas anda</h1>
 			<div className="flex justify-center gap-5 w-full">
 				<div className="border flex flex-col justify-center border-slate-200 shadow-md w-full max-w-sm rounded p-5 mb-7 text-center">
-					<h1 className=" text-xl">Kartu Identitas</h1>
+					<h1 className=" text-xl">Kartu Identitas wak</h1>
 					<hr className="my-2 w-44 border mx-auto border-slate-200"></hr>
 					<p className="capitalize">Nama : {name}</p>
 				</div>
